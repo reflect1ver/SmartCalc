@@ -1,0 +1,2 @@
+# SmartCalc
+🖥📠QT Project. 
